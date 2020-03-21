@@ -1,3 +1,5 @@
+# C++ #
+
 # Prerequisites
 *.d
 
@@ -30,3 +32,17 @@
 *.exe
 *.out
 *.app
+
+# C++ #
+
+# CMake #
+
+build/
+
+# CMake #
+
+# Visual Code #
+
+.vscode/
+
+# Visual Code #
